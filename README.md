@@ -20,16 +20,19 @@ The module only targets POCO Launcher (`com.mi.android.globallauncher`).
   - When a 2×2 or 3×3 folder contains exactly 4 or 9 apps, the last icon is displayed as a normal clickable app icon.
 
 - Fix Predictive Back Gesture Speed
-  - Fixes the abnormal predictive back animation speed in POCO Launcher to better match the native behaviour.
+  - Fixes the abnormal predictive back animation speed in POCO Launcher to restore the native behaviour.
 
 - Unlock All Widgets Animation
   - Enables the back bouncing animation for all widgets.
+
+- Hidden Apps Manager
+  - Able to config and hide any app icon from launcher.
 
 ## Notes
 
 Initial development and testing are based on:
 
-`RELEASE-6.01.05.2407-06081949`
+`RELEASE-6.01.05.2407-06081949, RELEASE-7.50.06.2592-09011644`
 
 Tested on OS3. Compatibility with other POCO Launcher versions and system versions may vary.
 
